@@ -1,0 +1,12 @@
+sqlalchemy>=0.8
+
+[oracle]
+cx_oracle>=5.1
+
+[postgresql]
+psycopg2>=2.4.2
+
+[geo]
+geoalchemy>=0.6
+
+[dev]
