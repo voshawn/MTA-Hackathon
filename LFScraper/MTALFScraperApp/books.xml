@@ -1,0 +1,11 @@
+<catalog>
+  <book isbn="1-880985-26-8">
+    <title>The Consumer</title>
+    <author>M. Gira</author>
+  </book>
+  <book isbn="0-679775-43-9">
+    <title>The Wind-Up Bird Chronicle</title>
+    <author>Haruki Murakami</author>
+  </book>
+  <!-- imagine more entries here... -->
+</catalog>
